@@ -8,3 +8,8 @@ h1, h2 {
     color: whitesmoke;
     font-family: "Comic Sans MS", serif;
 }
+
+img {
+    width: 600px;
+    margin-left: 400px;
+}
