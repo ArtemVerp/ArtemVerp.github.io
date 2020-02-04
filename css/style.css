@@ -1,0 +1,10 @@
+body {
+    background-image: url("../img/ricardo.gif");
+    background-repeat: repeat;
+    background-color: magenta;
+}
+
+h1, h2 {
+    color: whitesmoke;
+    font-family: "Comic Sans MS", serif;
+}
